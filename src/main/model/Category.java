@@ -1,0 +1,24 @@
+package model;
+
+public enum Category {
+    GROCERIES,
+    RENT,
+    UTILITIES,
+    TRANSPORTATION,
+    ENTERTAINMENT,
+    DINING_OUT,
+    HEALTHCARE,
+    INSURANCE,
+    SAVINGS,
+    DEBT_PAYMENTS,
+    EDUCATION,
+    CLOTHING,
+    PERSONAL_CARE,
+    HOUSEHOLD_SUPPLIES,
+    CHILDCARE,
+    PETS,
+    GIFTS,
+    TRAVEL,
+    EMERGENCY_FUND,
+    SUBSCRIPTIONS
+}
