@@ -49,11 +49,6 @@ To install and run the Finance Manager locally, follow these steps:
 3. **View Reports:** Generate reports to analyze your financial data over different periods.
 4. **Manage Budget:** Set a budget and track your progress towards achieving your financial goals.
 
-## Technologies Used
-- **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Authentication:** JWT (JSON Web Tokens)
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
